@@ -28,5 +28,4 @@ The values can be read using the following line-
 values=lidar.read()
 ```
 
-The code has been tested on the Rapsberry pi model 3b and a laptop with windows 10.And it has been tested and  works for the Rplidar A1.
-It may work with RpLidar A2 however it has not been tested.
+The code has been tested on RPLidar A1 with the Rapsberry pi model 3b and windows 10.
